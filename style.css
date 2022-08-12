@@ -1,0 +1,59 @@
+
+.container-fluid{
+  padding: 7% 15%;
+
+}
+.col-lg-4{
+  background-color:#2C3333;
+  height: 600px;
+  border-radius: 105px;
+  line-height: 2;
+  
+}
+.top-heading{
+  padding-top: 10px;
+  padding-left: 130px;
+  color: white;
+}
+.button-div{
+ padding-left: 100px;
+ border-radius: 5px;
+}
+.fa-brands{
+  font-size: 30px;
+}
+form{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.heading2{
+  color: white;
+  padding-left: 35px;
+  padding-top: 20px;
+}
+input{
+  border-radius: 40px;
+  border: none;
+  background-color: #FEFBF6;
+}
+input::placeholder{
+  font-size: 14px;
+ 
+}
+.fa-google-pay{
+color: #00fd4c;
+}
+.fa-apple-pay{
+  color: #C21010;
+}
+.fa-amazon-pay{
+  color: #FF9900;
+}
+.fa-paypal{
+  color: blue;
+}
+.btn-primary{
+  margin-top: 10px;
+  margin-left: 200px;
+  border-radius: 50px;
+}
