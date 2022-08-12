@@ -1,12 +1,12 @@
 
-.container-fluid{
+.container{
   padding: 7% 15%;
 
 }
 .col-lg-4{
   background-color:#2C3333;
   height: 600px;
-  border-radius: 105px;
+  border-radius: 50px;
   line-height: 2;
   
 }
@@ -56,4 +56,13 @@ color: #00fd4c;
   margin-top: 10px;
   margin-left: 200px;
   border-radius: 50px;
+}
+@media(max-width:400px){
+.button-div{
+  padding-left: 50px;
+}
+.btn-primary{
+  margin-left: 100px;
+}
+
 }
